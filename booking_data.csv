@@ -1,0 +1,11 @@
+booking_id,customer_id,booking_date,destination,number_of_passengers,cost_per_passenger
+1,1,09/26/2019,Salvador ,4,1434.38
+2,1,09/30/2019,Brasilia ,6,1127.36
+3,2,12/22/2019,Rio de Janeiro,2,1531.92
+4,3,12/22/2019,Rio de Janeiro,1,743.54
+5,3,12/19/2019,Florianopolis ,3,877.56
+6,4,10/24/2019,Brasilia ,5,1292.29
+7,5,10/26/2019,Recife ,2,893.65
+8,5,03/20/2020,Brasilia ,1,1127.36
+9,6,03/20/2020,Recife ,1,893.65
+10,8,03/28/2020,Florianopolis ,2,877.56
